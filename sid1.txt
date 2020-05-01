@@ -1,7 +1,0 @@
-hi, this is my third file
-added new lines
-add news char
-added new limes in remote
-added one more line in remote
-hi This is Sid
-welcome to Git
